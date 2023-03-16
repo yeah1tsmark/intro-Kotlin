@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670b9352-6985-45e7-81aa-178e72cd0d66" name="Changes" comment="datatypes in kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex-2-compare.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex-compare.kt" afterDir="false" />
+    <list default="true" id="670b9352-6985-45e7-81aa-178e72cd0d66" name="Changes" comment="exercise 2 on comparisons">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinScripting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex-compare1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for-loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/forloopex.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ex-2-compare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ex-2-compare.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -41,16 +45,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Ex_2_compareKt">
-    <configuration name="ComparisonsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComparisonsKt" />
+  <component name="RunManager" selected="Kotlin.ForloopexKt">
+    <configuration name="Ex_2_compareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_2_compareKt" />
       <module name="intro-kotlin-mark" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_2_compareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_2_compareKt" />
+    <configuration name="Ex_compare1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_compare1Kt" />
       <module name="intro-kotlin-mark" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.includehelp.VariablesKt" />
+    <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loopKt" />
       <module name="intro-kotlin-mark" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="ForloopexKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForloopexKt" />
       <module name="intro-kotlin-mark" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForloopexKt" />
+        <item itemvalue="Kotlin.For_loopKt" />
+        <item itemvalue="Kotlin.Ex_compare1Kt" />
         <item itemvalue="Kotlin.Ex_2_compareKt" />
         <item itemvalue="Kotlin.Ex_compareKt" />
-        <item itemvalue="Kotlin.ComparisonsKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.VariablesKt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -117,13 +121,29 @@
       <option name="project" value="LOCAL" />
       <updated>1678860887257</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercise 1 on comparisons">
+      <created>1678865644425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678865644425</updated>
+    </task>
+    <task id="LOCAL-00005" summary="exercise 2 on comparisons">
+      <created>1678865659285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678865659286</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intro to kotlin" />
     <MESSAGE value="comparisons in kotlin" />
     <MESSAGE value="datatypes in kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="datatypes in kotlin" />
+    <MESSAGE value="exercise 1 on comparisons" />
+    <MESSAGE value="exercise 2 on comparisons" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 2 on comparisons" />
   </component>
 </project>
