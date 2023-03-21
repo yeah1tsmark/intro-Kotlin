@@ -52,7 +52,7 @@ fun main() {
     }
 
     else{
-        print("Invalid Choice. try Again")
+        print("Invalid Choice. Try Again")
 
     }
 
