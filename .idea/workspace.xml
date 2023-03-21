@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670b9352-6985-45e7-81aa-178e72cd0d66" name="Changes" comment="loop exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dowhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex-when-stmt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whenstmt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whileloop.kt" afterDir="false" />
+    <list default="true" id="670b9352-6985-45e7-81aa-178e72cd0d66" name="Changes" comment="dowhile statements">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exe-function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ex-compare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ex-compare.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -47,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DowhileKt">
+  <component name="RunManager" selected="Kotlin.Exe_functionKt">
     <configuration name="DowhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DowhileKt" />
       <module name="intro-kotlin-mark" />
@@ -62,15 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForloopexKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForloopexKt" />
+    <configuration name="Exe_functionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exe_functionKt" />
       <module name="intro-kotlin-mark" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenstmtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenstmtKt" />
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
       <module name="intro-kotlin-mark" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exe_functionKt" />
+        <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.DowhileKt" />
         <item itemvalue="Kotlin.WhileloopKt" />
         <item itemvalue="Kotlin.Ex_when_stmtKt" />
-        <item itemvalue="Kotlin.WhenstmtKt" />
-        <item itemvalue="Kotlin.ForloopexKt" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +148,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678952649609</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="when statements">
+      <created>1679379976060</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679379976060</updated>
+    </task>
+    <task id="LOCAL-00009" summary="while statements">
+      <created>1679380009283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679380009283</updated>
+    </task>
+    <task id="LOCAL-00010" summary="dowhile statements">
+      <created>1679380021020</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679380021020</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,6 +180,9 @@
     <MESSAGE value="exercise 2 on comparisons" />
     <MESSAGE value="bmi calculator" />
     <MESSAGE value="loop exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="loop exercises" />
+    <MESSAGE value="when statements" />
+    <MESSAGE value="while statements" />
+    <MESSAGE value="dowhile statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="dowhile statements" />
   </component>
 </project>
